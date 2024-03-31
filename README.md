@@ -22,6 +22,6 @@ Direct players to follow the Players' instructions above. This patch is CLIENTSI
 * Email: contact@solsticegamestudios.com
 
 # 💖 Help Support Us
-This project is open source and provided free of charge for the Garry's Mod community.
+This project is open source and provided free of charge for the Tower Unite community.
 
 **If you like what we're doing here, consider [throwing a few dollars our way](https://www.solsticegamestudios.com/donate/)!** Our work is 100% funded by users of the tool!
